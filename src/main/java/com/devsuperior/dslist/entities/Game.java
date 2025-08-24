@@ -26,7 +26,7 @@ public class Game {
 	private String shortDescription;
 	@Column(columnDefinition= "TEXT")
 	private String longDescription;
-	
+
 	public Game() {
 		
 	}
